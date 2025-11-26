@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3dc28326f1b239d219b0b89b23f0a784",
+    "content-hash": "c77f52dccac4a38a16459848f7f8a30a",
     "packages": [
         {
             "name": "composer/installers",
@@ -1111,15 +1111,15 @@
         },
         {
             "name": "wpackagist-plugin/flywp",
-            "version": "1.4.1",
+            "version": "1.5.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/flywp/",
-                "reference": "tags/1.4.1"
+                "reference": "tags/1.5.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/flywp.1.4.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/flywp.1.5.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1129,15 +1129,15 @@
         },
         {
             "name": "wpackagist-plugin/redis-cache",
-            "version": "2.5.4",
+            "version": "2.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/redis-cache/",
-                "reference": "tags/2.5.4"
+                "reference": "tags/2.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/redis-cache.2.5.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/redis-cache.2.7.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
